@@ -1,0 +1,527 @@
+[
+  {
+    "name": "Dragalge",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Dragalge_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Their poison is strong enough to eat through the hull of a tanker, and they spit it indiscriminately at anything that enters their territory.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/691.png"
+  },
+  {
+    "name": "Murkrow",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Murkrow_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It hides any shiny object it finds in a secret location. MURKROW and MEOWTH loot one another's stashes.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/198.png"
+  },
+  {
+    "name": "Gabite",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Gabite_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "There is a long-held belief that medicine made from its scales will heal even incurable illnesses.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/444.png"
+  },
+  {
+    "name": "Milotic",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Milotic_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "MILOTIC live at the bottom of large lakes. When this POKéMON’s body glows a vivid pink, it releases a pulsing wave of energy that brings soothing calm to restless spirits.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/350.png"
+  },
+  {
+    "name": "Toxapex",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Toxapex_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Those attacked by Toxapex’s poison will suffer intense pain for three days and three nights. Post-recovery, there will be some aftereffects.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/748.png"
+  },
+  {
+    "name": "Skrelp",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Skrelp_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Camouflaged as rotten kelp, they spray liquid poison on prey that approaches unawares and then finish it off.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/690.png"
+  },
+  {
+    "name": "Spinda",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Spinda_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "No two SPINDA are said to have identical spot patterns on their hides. This POKéMON moves in a curious manner as if it is stumbling in dizziness. Its lurching movements can cause the opponent to become confused.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/327.png"
+  },
+  {
+    "name": "Dartrix",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Dartrix_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "A bit of a dandy, it spends its free time preening its wings. Its preoccupation with any dirt on its plumage can leave it unable to battle.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/723.png"
+  },
+  {
+    "name": "Scraggy",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Scraggy_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Its skin has a rubbery elasticity, so it can reduce damage by defensively pulling its skin up to its neck.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/559.png"
+  },
+  {
+    "name": "Sliggoo",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Sliggoo_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Its four horns are a high-performance radar system. It uses them to sense sounds and smells, rather than using ears or a nose.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/705.png"
+  },
+  {
+    "name": "Klink",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Klink_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "The two minigears that mesh together are predetermined. Each will rebound from other minigears without meshing.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/599.png"
+  },
+  {
+    "name": "Glalie",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Glalie_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "GLALIE has the ability to freely control ice. For example, it can instantly freeze its foe solid. After immobilizing its foe in ice, this POKéMON enjoys eating it in leisurely fashion.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/362.png"
+  },
+  {
+    "name": "Starly",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Starly_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Because they are weak individually, they form groups. However, they bicker if the group grows too big.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/396.png"
+  },
+  {
+    "name": "Bagon",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Bagon_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "BAGON harbors a never-ending dream of one day soaring high among the clouds. As if trying to dispel its frustration over its inability to fly, this POKéMON slams its hard head against huge rocks and shatters them into pebbles.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/371.png"
+  },
+  {
+    "name": "Swanna",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Swanna_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It administers sharp, powerful pecks with its bill. It whips its long neck to deliver forceful repeated strikes.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/581.png"
+  },
+  {
+    "name": "Binacle",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Binacle_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "They stretch and then contract, yanking their rocks along with them in bold hops. They eat seaweed that washes up on the shoreline.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/688.png"
+  },
+  {
+    "name": "Sunkern",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Sunkern_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It is very weak. Its only means of defense is to shake its leaves desperately at its attacker.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/191.png"
+  },
+  {
+    "name": "Delphox",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Delphox_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It gazes into the flame at the tip of its branch to achieve a focused state, which allows it to see into the future.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/655.png"
+  },
+  {
+    "name": "Dialga",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Dialga_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "A Pokémon spoken of in legend. It is said that time began moving when DIALGA was born.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/483.png"
+  },
+  {
+    "name": "Klefki",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Klefki_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "These key collectors threaten any attackers by fiercely jingling their keys at them.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/707.png"
+  },
+  {
+    "name": "Drapion",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Drapion_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It has the power in its clawed arms to make scrap of a car. The tips of its claws release poison.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/452.png"
+  },
+  {
+    "name": "Serperior",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Serperior_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "They raise their heads to intimidate opponents but only give it their all when fighting a powerful opponent.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/497.png"
+  },
+  {
+    "name": "Celebi",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Celebi_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Revered as a guardian of the forest, CELEBI appears wherever beautiful forests exist.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/251.png"
+  },
+  {
+    "name": "Audino",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Audino_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Its auditory sense is astounding. It has a radarlike ability to understand its surroundings through slight sounds.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/531.png"
+  },
+  {
+    "name": "Cleffa",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Cleffa_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "If the impact site of a meteorite is found, this POKéMON is certain to be within the immediate area.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/173.png"
+  },
+  {
+    "name": "Eevee",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Eevee_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Its ability to evolve into many forms allows it to adapt smoothly and perfectly to any environment.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/133.png"
+  },
+  {
+    "name": "Luxio",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Luxio_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It rests its forelegs on others to communicate with rhythmic electric pulses from its claws.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/404.png"
+  },
+  {
+    "name": "Taillow",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Taillow_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "TAILLOW is young - it has only just left its nest. As a result, it sometimes becomes lonesome and cries at night. This POKéMON feeds on WURMPLE that live in forests.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/276.png"
+  },
+  {
+    "name": "Yanmega",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Yanmega_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "By churning its wings, it creates shock waves that inflict critical internal injuries to foes.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/469.png"
+  },
+  {
+    "name": "Omastar",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Omastar_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "Its heavy shell allowed it to reach only nearby food. This could be the reason it is extinct.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/139.png"
+  },
+  {
+    "name": "Braviary",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Braviary_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "They fight for their friends without any thought about danger to themselves. One can carry a car while flying.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/628.png"
+  },
+  {
+    "name": "Muk",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Muk_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "As it moves, a very strong poison leaks from it, making the ground there barren for three years.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/89.png"
+  },
+  {
+    "name": "Noivern",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Noivern_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "The ultrasonic waves it emits from its ears can reduce a large boulder to pebbles. It swoops out of the dark to attack.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/715.png"
+  },
+  {
+    "name": "Litten",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Litten_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "While grooming itself, it builds up fur inside its stomach. It sets the fur alight and spews fiery attacks, which change based on how it coughs.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/725.png"
+  },
+  {
+    "name": "Sudowoodo",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Sudowoodo_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "If a tree branch shakes when there is no wind, it's a SUDOWOODO, not a tree. It hides from the rain.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/185.png"
+  },
+  {
+    "name": "Ampharos",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Ampharos_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "When it gets dark, the light from its bright, shiny tail can be seen from far away on the ocean's surface.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/181.png"
+  },
+  {
+    "name": "Weedle",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Weedle_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "The barb on top of its head secretes a strong poison. It uses this toxic barb to protect itself.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/13.png"
+  },
+  {
+    "name": "Porygon",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Porygon_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "An artificial POKéMON created due to extensive research, it can perform only what is in its program.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/137.png"
+  },
+  {
+    "name": "Combee",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Combee_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It collects and delivers honey to its colony. At night, they cluster to form a beehive and sleep.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/415.png"
+  },
+  {
+    "name": "Kirlia",
+    "url": "http://bulbapedia.bulbagarden.net/wiki/Kirlia_(Pok%C3%A9mon)",
+    "type": 0,
+    "text": "It is said that a KIRLIA that is exposed to the positive emotions of its TRAINER grows beautiful. This POKéMON controls psychokinetic powers with its highly developed brain.",
+    "img": "https://cdn.traction.one/pokedex/pokemon/281.png"
+  },
+  {
+    "name": "Angular",
+    "url": "https://angular.io/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://angular.io/assets/images/logos/angular/logo-nav@2x.png"
+  },
+  {
+    "name": "Aurelia",
+    "url": "https://aurelia.io/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://aurelia.io/styles/images/logo.svg"
+  },
+  {
+    "name": "Ember",
+    "url": "https://emberjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://emberjs.com/images/ember-logo.svg"
+  },
+  {
+    "name": "Babylon",
+    "url": "https://www.babylonjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://d33wubrfki0l68.cloudfront.net/b39661bbf642a09168d424b5c1f48076d23c8fa3/44cb5/assets/img/babylonidentity.svg"
+  },
+  {
+    "name": "Onsen",
+    "url": "https://onsen.io/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://onsen.io/images/logo/svg/onsenui_banner_white.svg"
+  },
+  {
+    "name": "Cylon",
+    "url": "https://cylonjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://cylonjs.com/images/elements/soldier.svg"
+  },
+  {
+    "name": "Jest",
+    "url": "https://jestjs.io/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Ava",
+    "url": "https://github.com/avajs/ava",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://raw.githubusercontent.com/avajs/ava/main/media/header.png"
+  },
+  {
+    "name": "Crafty",
+    "url": "http://craftyjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "http://craftyjs.com/images/text-logo.png"
+  },
+  {
+    "name": "Snack",
+    "url": "http://snackjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Zepto",
+    "url": "https://zeptojs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://zeptojs.com/logo.png"
+  },
+  {
+    "name": "Jasmine",
+    "url": "https://jasmine.github.io/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://jasmine.github.io/images/jasmine-purple-horizontal.svghttps://qunitjs.com/img/logo-with-colored-text.svg"
+  },
+  {
+    "name": "Qunit",
+    "url": "https://jasmine.github.io/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Mocha",
+    "url": "https://mochajs.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Soma",
+    "url": "https://somajs.github.io/somajs/#/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Jaggery",
+    "url": "https://jaggeryjs.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://mithril.js.org/logo.svg"
+  },
+  {
+    "name": "Mithril",
+    "url": "https://mithril.js.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Enyo",
+    "url": "http://enyojs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://kangoextensions.com/img/kangoextensions.png"
+  },
+  {
+    "name": "Kango",
+    "url": "https://kangoextensions.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Qooxdoo",
+    "url": "https://qooxdoo.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Konva",
+    "url": "https://konvajs.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Durandal",
+    "url": "http://durandaljs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://sproutcore.com/img/logo.png"
+  },
+  {
+    "name": "SproutCore",
+    "url": "https://sproutcore.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Polymer",
+    "url": "https://www.polymer-project.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "http://opalang.org/assets/img/logo-opa-gray.png"
+  },
+  {
+    "name": "Opa",
+    "url": "http://opalang.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://d27urz3c38hyx4.cloudfront.net/res/corgi/a5850363/images/logos/phacility_header_logo.png"
+  },
+  {
+    "name": "Phacility",
+    "url": "http://www.javelinjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://hay.github.io/stapes/web-assets/img/logo.png"
+  },
+  {
+    "name": "Stapes",
+    "url": "https://hay.github.io/stapes/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://ampersandjs.com/public/images/ampersand-at-the-beach.svg"
+  },
+  {
+    "name": "Ampersand",
+    "url": "https://ampersandjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Heisenberg",
+    "url": "https://heisenbergjs.github.io/heisenberg/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Rivets",
+    "url": "http://rivetsjs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "http://script.aculo.us/scriptaculous_logo.png"
+  },
+  {
+    "name": "Scriptanculo",
+    "url": "http://script.aculo.us/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Spine",
+    "url": "http://spinejs.com/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "http://chaplinjs.org/images/chaplin-hat.png"
+  },
+  {
+    "name": "Chaplin",
+    "url": "http://chaplinjs.org/",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  },
+  {
+    "name": "Brink",
+    "url": "https://github.com/brink-js/brink.js",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "http://openrico.sourceforge.net/examples/client/images/ricologo.gif"
+  },
+  {
+    "name": "Hummingbird",
+    "url": "https://github.com/obogo/hummingbird",
+    "type": 1,
+    "text": "Another js framework",
+    "img": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+  }
+]

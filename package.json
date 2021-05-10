@@ -1,0 +1,27 @@
+{
+  "name": "pokemonorbigdata",
+  "version": "0.0.1",
+  "description": "Is this Pokemon or JS Framework?",
+  "author": "Tim \"pixelastic\" Carry",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:pixelastic/pokemonorbigdata.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pixelastic/pokemonorbigdata/issues"
+  },
+  "scripts": {
+    "build": "./scripts/build",
+    "deploy": "./scripts/deploy",
+    "serve": "./scripts/serve"
+  },
+  "devDependencies": {
+    "gh-pages": "2.0.1",
+    "live-server": "1.2.1",
+    "onchange": "1.0.0",
+    "parallelshell": "1.1.1",
+    "react-tools": "0.13.0"
+  },
+  "dependencies": {}
+}

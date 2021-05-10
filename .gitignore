@@ -1,0 +1,37 @@
+
+# Temporary files
+.*.sw[a-z]
+*.orig
+*.crcdownload
+*~
+nohup.out
+tmp
+.idea
+
+# Compiled stuff
+*.exe
+*.dll
+*.so
+*.pyc
+*.mo
+# *.min.css
+# *.min.js
+__pycache__
+.sass-cache
+.module-cache
+
+# Junk
+.DS_Store
+Thumbs.db
+
+# Other versioning systems
+.hg
+.hgignore
+.svn
+
+# Dependencies
+bower_components
+node_modules
+
+# Build
+dist

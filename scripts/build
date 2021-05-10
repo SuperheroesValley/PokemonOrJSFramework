@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -e
+
+rm -rf ./dist
+mkdir -p ./dist
+
+cp \
+  -r \
+  ./app/css \
+  ./app/img \
+  ./app/index.html \
+  ./app/questions.json \
+  ./dist
+
+mkdir -p ./dist/js
+cp ./app/js/*.js ./dist/js
+
+jsx --extension jsx ./app/js/ ./dist/js/
